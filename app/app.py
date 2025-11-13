@@ -214,7 +214,7 @@ with col2:
 if st.session_state.get("agent_button", False) or st.button("Get AI Analysis"):
     st.info("Generating AI analysis (calls Groq). Make sure GROQ_API_KEY is set in Secrets.")
     with st.spinner("Calling the Netflix Agent..."):
-       lstm_path = "results/lstm_predictions.csv" # expected file (if present) from your LSTM stage
+        lstm_path = "results/lstm_predictions.csv" # expected file (if present) from your LSTM stage
         forecast_path = "results/netflix_12_month_forecast.csv"
         agent_text = run_agent_analysis(lstm_path, forecast_path)
     st.markdown("### Netflix Agent Output")
