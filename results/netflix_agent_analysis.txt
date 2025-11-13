@@ -1,0 +1,9 @@
+**Short-term Movement:** Netflix's short-term movement is volatile, as indicated by the LSTM model, which shows fluctuations in actual vs predicted values over the last 10 rows, with no clear stable or trending pattern.
+
+**Long-term Trend:** The 12-month ARIMA long-term trend forecast indicates a downward trend, with predicted mean values decreasing over the next 12 months.
+
+**Risk Rating:** Medium - Due to the volatility in short-term movement and the downward trend in long-term forecast.
+
+**Model Agreement/Disagreement:** The two models disagree, as the LSTM model shows no clear trend in the short-term, while the ARIMA model predicts a downward trend in the long-term. The LSTM model's predicted values are also lower than the actual values, which may indicate a potential upward correction, contradicting the ARIMA model's downward trend forecast.
+
+**Final Summary:** Netflix's stock is experiencing volatile short-term movements, while its long-term trend is predicted to be downward. This combination warrants a medium risk rating. For beginners, it's essential to understand that Netflix's stock is currently unpredictable in the short-term, but its long-term forecast suggests a decline. As a result, investors should exercise caution and carefully consider their investment decisions. The disagreement between the two models adds to the uncertainty, making it crucial to monitor the stock's movement closely. Overall, Netflix's stock is currently a medium-risk investment, and investors should be prepared for potential fluctuations.
