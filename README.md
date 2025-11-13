@@ -1,4 +1,5 @@
-📈**Netflix Stock Predictor with AI Analysis**
+<h1 align="center">📈**Netflix Stock Predictor with AI Analysis**</h1>
+
 
 A complete end-to-end financial forecasting and analysis system.
 
@@ -16,11 +17,11 @@ This project predicts Netflix (NFLX) stock prices using a combination of:
 
 *The project integrates forecasting with AI-driven explanations, enabling users to understand short-term volatility, long-term trends, risks, and model agreement.*
 
-🚀 **Live Demo**
+<h2>🚀 **Live Demo**</h2>
 
 👉 https://netflix-stock-predictor-bgyapczbmbcv5atvbwip9x.streamlit.app/
 
-🎥**Project Overview**
+<h2>🎥 **Project Overview** </h2>
 
 This system performs:
 
@@ -63,7 +64,7 @@ Takes LSTM + ARIMA outputs and generates:
 
 **Click “Get AI Analysis” to generate full financial insights.**
 
-🧩 **Project Features**
+ <h2>🧩 **Project Features** </h2>
 
 ☑️ Data Pipeline:
 
@@ -107,7 +108,7 @@ Takes LSTM + ARIMA outputs and generates:
 
 ✓ Free Streamlit Cloud
 
-📊**Screenshots**
+<h2>📊 **Screenshots**</h2>
 
 1) Forecast Graph
 <img width="1908" height="854" alt="image" src="https://github.com/user-attachments/assets/79211292-536c-4591-b806-e852132e8d15" />
@@ -118,7 +119,7 @@ Takes LSTM + ARIMA outputs and generates:
 3)Analysis
 <img width="1696" height="689" alt="image" src="https://github.com/user-attachments/assets/b611ca0b-93f9-404b-ab07-c8f4e4d5e7c4" />
 
-🧪 **Results Summary**
+ <h2>🧪 **Results Summary** </h2>
 
 | Model                 | Result                           |
 | --------------------- | -------------------------------- |
@@ -128,7 +129,7 @@ Takes LSTM + ARIMA outputs and generates:
 | **ARIMA**             | Stable long-term forecast        |
 | **Agentic AI**        | Human-readable financial reports |
 
-🛠 **Tech Stack**
+ <h2>🛠 **Tech Stack** </h2>
 
 Languages: Python
 Libraries: Pandas, NumPy, Matplotlib, Statsmodels, Scikit-Learn, TensorFlow/Keras
